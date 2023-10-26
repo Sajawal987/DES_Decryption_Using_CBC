@@ -1,4 +1,4 @@
-# DES_Encryption_Using_CBC
+# DES_Decryption_Using_CBC
 
 This Python script performs Data Encryption Standard (DES) decryption. DES is a symmetric-key block cipher that operates on 64-bit blocks of data using a 56-bit key.
 
